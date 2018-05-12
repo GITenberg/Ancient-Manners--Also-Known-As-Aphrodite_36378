@@ -1,0 +1,44 @@
+_repo: Ancient-Manners--Also-Known-As-Aphrodite_36378
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Zier, Édouard
+    aliases:
+    - Zier, Francois Edouard
+    - Zier, François Édouard
+    birthdate: 1856
+    deathdate: 1924
+    gutenberg_agent_id: '38236'
+    url: http://www.gutenberg.org/2009/agents/38236
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Louÿs, Pierre
+    aliases:
+    - Louis, Pierre-Félix
+    - Pierre Louÿs
+    - Chrysis, Pierre
+    - Louis, Pierre-Felix
+    - Louys, Pierre
+    birthdate: 1870
+    deathdate: 1925
+    gutenberg_agent_id: '1554'
+    url: http://www.gutenberg.org/2009/agents/1554
+    wikipedia: http://en.wikipedia.org/wiki/Pierre_Lou%C3%BFs
+description: ''
+gutenberg_issued: '2011-06-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36378'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Courtesans -- Egypt -- Alexandria -- Fiction'
+- !lcsh 'Alexandria (Egypt) -- Fiction'
+- !lcc 'PQ'
+title: Ancient Manners; Also Known As Aphrodite
+url: http://www.gutenberg.org/ebooks/36378
