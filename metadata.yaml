@@ -28,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1554
     wikipedia: http://en.wikipedia.org/wiki/Pierre_Lou%C3%BFs
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36378#Ancient-Manners--Also-Known-As-Aphrodite
 gutenberg_issued: '2011-06-11'
 gutenberg_type: Text
 identifiers:
